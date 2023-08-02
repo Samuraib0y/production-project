@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "outDir": "./dist/",
-    "sourceMap": true,
     "noImplicitAny": true,
+    "sourceMap": true,
     "module": "ESNext",
     "target": "es5",
     "jsx": "react-jsx",
